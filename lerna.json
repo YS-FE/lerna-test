@@ -1,6 +1,6 @@
 {
   "packages": [
-    "packages/@ys-fe/*"
+    "packages/@ys-fe-test/*"
   ],
   "version": "0.0.5"
 }
