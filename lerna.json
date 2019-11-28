@@ -1,6 +1,6 @@
 {
   "packages": [
-    "packages/@ffe/*"
+    "packages/@fffe/*"
   ],
   "version": "0.0.0"
 }
