@@ -1,5 +1,5 @@
 {
-  "name": "two",
+  "name": "@fffe/one01",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "4404ed456179cee26430f48cd52d2189f657ab4c",
+  "gitHead": "bdfffd06735c3cab34a36e505e1160e2cf83cbcb",
   "dependencies": {
     "axios": "^0.19.0"
   }
