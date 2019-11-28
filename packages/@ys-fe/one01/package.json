@@ -19,6 +19,7 @@
   "license": "MIT",
   "gitHead": "2759ced39bb3480269934819897c260d66aa0d8d",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.19.0",
+    "shelljs": "^0.8.3"
   }
 }
