@@ -7,9 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ys",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YS-FE/lerna_test.git",
+    "directory": "packages/@fffe/two02"
+  },
   "license": "ISC",
-  "gitHead": "bdfffd06735c3cab34a36e505e1160e2cf83cbcb",
+  "gitHead": "20b804b578362c58c390ede127ed938f82cdda15",
   "dependencies": {
     "axios": "^0.19.0",
     "fs-extra": "^8.1.0"
