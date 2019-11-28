@@ -17,7 +17,7 @@
     "directory": "packages/@fffe/one01"
   },
   "license": "MIT",
-  "gitHead": "2759ced39bb3480269934819897c260d66aa0d8d",
+  "gitHead": "f43609cb5f4d3489e72ea632a634e9fd374a2326",
   "dependencies": {
     "axios": "^0.19.0"
   }

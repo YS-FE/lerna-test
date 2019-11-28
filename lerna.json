@@ -1,4 +1,5 @@
 {
+  "name": "test-multi-package",
   "packages": [
     "packages/@ys-fe-test/*"
   ],
