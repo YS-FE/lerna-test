@@ -1,5 +1,5 @@
 {
-  "name": "@fffe/two02",
+  "name": "@ys-fe/two02",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -16,8 +16,8 @@
     "url": "git+https://github.com/YS-FE/lerna_test.git",
     "directory": "packages/@fffe/two02"
   },
-  "license": "ISC",
-  "gitHead": "20b804b578362c58c390ede127ed938f82cdda15",
+  "license": "MIT",
+  "gitHead": "2759ced39bb3480269934819897c260d66aa0d8d",
   "dependencies": {
     "axios": "^0.19.0",
     "fs-extra": "^8.1.0"
