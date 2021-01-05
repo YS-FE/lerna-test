@@ -19,6 +19,6 @@
   "license": "MIT",
   "gitHead": "f43609cb5f4d3489e72ea632a634e9fd374a2326",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   }
 }
